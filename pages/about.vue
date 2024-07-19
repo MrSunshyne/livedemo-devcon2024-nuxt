@@ -1,3 +1,5 @@
 <template>
-    hello everyone
+    <Shell>
+        hello everyone
+    </Shell>
 </template>
